@@ -62,55 +62,55 @@ function App() {
             {/* Song Thumbnails */}
             <div className="rounded-xl shadow-lg w-60 hover:scale-105 bg-pink-200 transition-transform duration-300 p-7 flex flex-col justify-between">
               <a href="https://open.spotify.com/track/1NZs6n6hl8UuMaX0UC0YTz?si=e1340cc219784fbb">
-                <img src="/public/brooklyn baby.jpg" alt="Brooklyn Baby" className="rounded-xl" />
+                <img src="./brooklyn baby.jpg" alt="Brooklyn Baby" className="rounded-xl" />
                 <p className="font-semibold text-gray-900">Brooklyn Baby</p>
               </a>
             </div>
             <div className="rounded-xl shadow-lg w-60 hover:scale-105 bg-pink-200 transition-transform duration-300 p-7 flex flex-col justify-between">
               <a href="https://open.spotify.com/track/6SRsiMl7w1USE4mFqrOhHC?si=e8d8c45ed6b542ce">
-                <img src="/public/brutal.jpg" alt="Brutal" className="rounded-xl" />
+                <img src="./brutal.jpg" alt="Brutal" className="rounded-xl" />
                 <p className="font-semibold text-gray-900">Brutal</p>
               </a>
             </div>
             <div className="rounded-xl shadow-lg w-60 hover:scale-105 bg-pink-200 transition-transform duration-300 p-7 flex flex-col justify-between">
               <a href="https://open.spotify.com/track/2eAvDnpXP5W0cVtiI0PUxV?si=45cb5c28317e4b2a">
-                <img src="/public/dandelions.jpg" alt="Dandelions" className="rounded-xl" />
+                <img src="./dandelions.jpg" alt="Dandelions" className="rounded-xl" />
                 <p className="font-semibold text-gray-900">Dandelions</p>
               </a>
             </div>
             <div className="rounded-xl shadow-lg w-60 hover:scale-105 bg-pink-200 transition-transform duration-300 p-7 flex flex-col justify-between">
               <a href="https://open.spotify.com/track/2Ch7LmS7r2Gy2kc64wv3Bz?si=ddca635b60344ec0">
-                <img src="/public/die for u.jpg" alt="Die For You" className="rounded-xl" />
+                <img src="./die for u.jpg" alt="Die For You" className="rounded-xl" />
                 <p className="font-semibold text-gray-900">Die For You</p>
               </a>
             </div>
             <div className="rounded-xl shadow-lg w-60 hover:scale-105 bg-pink-200 transition-transform duration-300 p-7 flex flex-col justify-between">
               <a href="https://open.spotify.com/track/3ZCTVFBt2Brf31RLEnCkWJ?si=85d38d75528f47bb">
-                <img src="/public/everything i wanted.jpg" alt="Everything I Wanted" className="rounded-xl" />
+                <img src="./everything i wanted.jpg" alt="Everything I Wanted" className="rounded-xl" />
                 <p className="font-semibold text-gray-900">Everything I Wanted</p>
               </a>
             </div>
             <div className="rounded-xl shadow-lg w-60 hover:scale-105 bg-pink-200 transition-transform duration-300 p-7 flex flex-col justify-between">
               <a href="https://open.spotify.com/track/51rfRCiUSvxXlCSCfIztBy?si=762a17e86e894dee">
-                <img src="/public/i love you, im sorry.jpg" alt="I Love You, I'm Sorry" className="rounded-xl" />
+                <img src="./i love you, im sorry.jpg" alt="I Love You, I'm Sorry" className="rounded-xl" />
                 <p className="font-semibold text-gray-900">I Love You, I Am Sorry</p>
               </a>
             </div>
             <div className="rounded-xl shadow-lg w-60 hover:scale-105 bg-pink-200 transition-transform duration-300 p-7 flex flex-col justify-between">
               <a href="https://open.spotify.com/track/5XeFesFbtLpXzIVDNQP22n?si=6c45a84fe3d3428a">
-                <img src="/public/i wanna be ur.jpg" alt="I WANNA BE YOUR" className="rounded-xl" />
+                <img src="./i wanna be ur.jpg" alt="I WANNA BE YOUR" className="rounded-xl" />
                 <p className="font-semibold text-gray-900">I WANNA BE YOUR</p>
               </a>
             </div>
             <div className="rounded-xl shadow-lg w-60 hover:scale-105 bg-pink-200 transition-transform duration-300 p-7 flex flex-col justify-between">
               <a href="https://open.spotify.com/track/1dGr1c8CrMLDpV6mPbImSI?si=2dc518f8affe4381">
-                <img src="/public/lover.jpg" alt="Lover" className="rounded-xl" />
+                <img src="./lover.jpg" alt="Lover" className="rounded-xl" />
                 <p className="font-semibold text-gray-900">Lover</p>
               </a>
             </div>
             <div className="rounded-xl shadow-lg w-60 hover:scale-105 bg-pink-200 transition-transform duration-300 p-7 flex flex-col justify-between">
               <a href="https://open.spotify.com/track/3DarAbFujv6eYNliUTyqtz?si=d32564b5d7a841d0">
-                <img src="/public/you belong with me.jpg" alt="You Belong With Me" className="rounded-xl" />
+                <img src="./you belong with me.jpg" alt="You Belong With Me" className="rounded-xl" />
                 <p className="font-semibold text-gray-900">You Belong With Me</p>
               </a>
             </div>
